@@ -1,0 +1,15 @@
+#home {
+    color: #13390D;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+    transform: scale(1.1);
+}

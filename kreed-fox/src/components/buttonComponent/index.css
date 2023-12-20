@@ -1,0 +1,39 @@
+.contact-us {
+    color: #13390D;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 24px 12px 22px;
+    border-radius: 4px;
+    border: 1px solid #13390D;
+    width: 130px;
+    background-color: transparent;
+    cursor: pointer;
+}
+.contact-us:hover{
+    background-color: #76e665;
+    transition: all 0.4s;
+    transform: scale(1.1);
+}
+
+.join-us {
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 4px;
+    background: #13390D;
+    padding: 21px 70px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.join-us:hover{
+    background: #1f6115; 
+    transition: all 0.4s;
+    transform: scale(1.1);
+}
+
